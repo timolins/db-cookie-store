@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "tough-cookie" : "~2.0.0"
-  }
+  },
   "dependencies": {
     "sequelize" : "~2.0.0"
   },
